@@ -31,10 +31,10 @@ Welcome To the new Garden
 > [!columns]
 >
 > > [!note] Column 1
-> > Content for the first column
+> > [[content/delete/Areas/Political/Political|Political]]
 >
 > > [!tip] Column 2\
-> > Content for the second column
+> > [[content/Areas/Philosophy/Philosophy|Philosophy]]
 >
 > > [!example] Column 3
 > > Content for the third column

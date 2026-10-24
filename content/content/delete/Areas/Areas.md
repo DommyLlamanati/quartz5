@@ -6,4 +6,4 @@ modified: 2026-09-30T04:49:31.411Z
 
 # [[Political|Political]]
 
-[[MetaEthics]]
+[[content/delete/Areas/Political/MetaEthics]]
