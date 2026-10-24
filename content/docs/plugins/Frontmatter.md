@@ -6,8 +6,8 @@ aliases:
 title: Frontmatter
 description: Parses frontmatter and displays note properties in a collapsible panel.
 enableToc: true
-created: 2026-10-18T07:10:11.114Z
-modified: 2026-10-18T07:10:11.114Z
+created: 2026-10-24T22:43:36.872Z
+modified: 2026-10-24T22:43:36.872Z
 tags:
   - plugin/transformer
   - plugin/component

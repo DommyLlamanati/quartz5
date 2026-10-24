@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Areas/Political/January 6th.md
 created: 2026-09-30T04:53:27.037Z
 modified: 2026-09-30T04:53:47.557Z
 ---
