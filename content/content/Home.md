@@ -5,38 +5,14 @@ created: 2026-09-30T04:40:14.680Z
 modified: 2026-10-18T07:28:07.879Z
 ---
 
-# Welcome to INDEX
+# Hello World
 
-this vault is called "2026 politics"
+## You are: Home
 
----
+> [!question] Looking for?
+> [[content/index|index]]
 
-Welcome To the new Garden
+```
 
-> [!aside] side
->
-> ```
-> ```
->
-> [!columns|metadata-class] > >> \[!callout-class|metadata-class]
 
-[[Areas/Areas|Areas]]
-
----
-
-<progress value="50" max="100"></progress>
-
----
-
-> [!columns]
->
-> > [!note] Column 1
-> > [[content/delete/Areas/Political/Political|Political]]
->
-> > [!tip] Column 2\
-> > [[content/Areas/Philosophy/Philosophy|Philosophy]]
->
-> > [!example] Column 3
-> > Content for the third column
-
----
+```
